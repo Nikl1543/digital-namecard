@@ -33,10 +33,10 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
+	height: 100%;
+	width: 100%;
 	object-fit: cover;
-	border-radius: 50%;
+	border-radius: 100%;
 }
 
 .container {
@@ -123,7 +123,7 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 60%;
 }
 
 .primary-info {
@@ -136,6 +136,9 @@ img.profile-pic {
 
 .bg-color-grey {
 	background-color: #F2F2F2;
+}
+.bg-color-beige {
+	background-color: #f6eed2;
 }
 
 .bg-color-white {
@@ -168,16 +171,18 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #fff29f;
 	height: 48px;
-	padding-left: 24px
+	padding-left: 24px;
 	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: white;
+	color: black;
 	font-weight: 300;
+	border-radius: 15px;
+	border: 1px solid gray;
 }
 
 @media screen and (max-width: 600px) {
