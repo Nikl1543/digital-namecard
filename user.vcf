@@ -7,8 +7,6 @@ ORG:Restaurant Alouette;
 TITLE:Front of House Member
 EMAIL;type=INTERNET;type=WORK;type=pref:smvistesen@hotmail.com
 TEL;type=WORK;type=VOICE:+45 25 30 61 54
-item1.ADR;type=WORK;type=pref:;;Vestre Teglgade 2D 3.tv;;;Copenhagen, 2450;Denmark
+item1.ADR;type=PRIVATE;type=pref:;;Vestre Teglgade 2D 3.tv;;;Copenhagen, 2450;Denmark
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
-item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
