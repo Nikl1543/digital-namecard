@@ -1,14 +1,9 @@
-<svg width="25" height="25" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>noun_555068_cc</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(-4909 -2651)">
-<g id="noun_555068_cc">
-<g id="Vector">
-<use xlink:href="#path0_fill" transform="translate(4909 2651)" fill="#219653"/>
-</g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" d="M 12.5 25C 5.59625 25 0 19.4037 0 12.5C 0 5.59625 5.59625 0 12.5 0C 19.4037 0 25 5.59625 25 12.5C 25 19.4037 19.4037 25 12.5 25ZM 15.1038 14.0625C 14.425 14.6088 13.8925 15.31 13.5538 16.1125C 11.4525 15.1875 9.8125 13.5475 8.8775 11.5175C 9.69 11.1075 10.39 10.575 10.9288 9.90625C 10.7913 8.39125 10.01 7.09375 8.8675 6.26C 7.34375 6.81125 6.2825 8.22625 6.24875 9.8925C 6.36375 14.6437 10.1063 18.4825 14.8038 18.7488C 16.575 18.7275 18.07 17.675 18.7375 16.1737C 17.905 14.99 16.6075 14.2088 15.1225 14.0638L 15.1038 14.0625Z"/>
-</defs>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="64px" height="64px" viewBox="-0.72 -0.72 25.44 25.44" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff">
+<g id="SVGRepo_bgCarrier" stroke-width="0">
+<rect x="-0.72" y="-0.72" width="25.44" height="25.44" rx="12.72" fill="#ffffff" strokewidth="0"/>
+</g>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <path d="M10.0376 5.31617L10.6866 6.4791C11.2723 7.52858 11.0372 8.90532 10.1147 9.8278C10.1147 9.8278 10.1147 9.8278 10.1147 9.8278C10.1146 9.82792 8.99588 10.9468 11.0245 12.9755C13.0525 15.0035 14.1714 13.8861 14.1722 13.8853C14.1722 13.8853 14.1722 13.8853 14.1722 13.8853C15.0947 12.9628 16.4714 12.7277 17.5209 13.3134L18.6838 13.9624C20.2686 14.8468 20.4557 17.0692 19.0628 18.4622C18.2258 19.2992 17.2004 19.9505 16.0669 19.9934C14.1588 20.0658 10.9183 19.5829 7.6677 16.3323C4.41713 13.0817 3.93421 9.84122 4.00655 7.93309C4.04952 6.7996 4.7008 5.77423 5.53781 4.93723C6.93076 3.54428 9.15317 3.73144 10.0376 5.31617Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/> </g>
+</svg>
