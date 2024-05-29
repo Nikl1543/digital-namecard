@@ -43,7 +43,7 @@ img.profile-pic {
 	margin: 0 auto;
 	position: relative;
 	height: 100%;
-	
+
 }
 
 .row {
@@ -124,7 +124,7 @@ img.profile-pic {
 }
 
 .banner {
-	height: 60%;
+	height: 80%;
 }
 
 .primary-info {
@@ -139,7 +139,7 @@ img.profile-pic {
 	background-color: #F2F2F2;
 }
 .bg-color-beige {
-	background-color: #f6eed2;
+	background-color: #fffae5;
 }
 
 .bg-color-white {
@@ -172,7 +172,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #fff29f;
+	background-color: #f6eed2;
 	height: 48px;
 	padding-left: 24px;
 	padding-right: 24px;
